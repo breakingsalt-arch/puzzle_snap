@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "puzzle_snap"
+version = "1.1.0"
+name = "Puzzle Snap"
+tagline = "Snap, connect and weld mesh pieces together like a puzzle"
+maintainer = "Your Name <your@email.com>"
+type = "add-on"
+
+website = "https://github.com/your-username/puzzle-snap"
+
+tags = ["3D View", "Mesh", "Modeling"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Your Name"]
